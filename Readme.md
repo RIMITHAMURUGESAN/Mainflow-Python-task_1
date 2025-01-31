@@ -94,7 +94,7 @@ All tasks were successfully implemented and tested for correctness. The project 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/RIMITHAMURUGESAN/Python-task_1.git](https://github.com/RIMITHAMURUGESAN/Python-task_1.git)
+   git clone [https://github.com/RIMITHAMURUGESAN/Mainflow-Python-task_1.git](https://github.com/RIMITHAMURUGESAN/Mainflow-Python-task_1.git)
    ```
 2. Navigate to the project directory:
    ```bash
